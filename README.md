@@ -13,7 +13,7 @@ Enjoy using your paper wallets, and remember - to give DAL is to give a fuck
 
 ## Steps to create your DAL Paper Wallet
 
-**Before you go printing anything,** we need to derive the Public Key from the DAL QT-Wallet. Make sure to do these steps herein within an offline environment, then once you are done - restart the computer to dump the memory and remove all traces of these procedures before reconnecting to the interwebs. Before disconnecting, download this QR Code Generator which can be found [here](https://www.codetwo.com/freeware/qr-code-desktop-reader/) and install it ready for step 2
+**Before you go thinking you're ready to print,** we need to derive the Private Key from the DAL QT-Wallet using your Public Key. Make sure to do these steps herein within an offline environment, then once you are done - restart the computer to dump the memory and remove all traces of these procedures before reconnecting to the interwebs. Before disconnecting, download this QR Code Generator which can be found [here](https://www.codetwo.com/freeware/qr-code-desktop-reader/) and install it ready for step 2
 
 **1)** This step assumes you've already set up your wallet : open the wallet on your PC and navigate to console, if you have encrypted your wallet with a password, enter that first and hit enter. If you also have a wallet passphrase you will want to use the command "walletpassphrase" like this;
 

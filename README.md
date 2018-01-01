@@ -19,7 +19,7 @@ Before you go printing anything, we need to derive the Public Key from the DAL Q
 
 `walletpassphrase <passphrase> <timeout>`
 
-...where <timeout> specifies how long to keep the decryption key in memory
+...where timeout specifies how long to keep the decryption key in memory
 
 example: if your passphrase is  "dallarisawesome", you would write in the console :
   

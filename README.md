@@ -29,7 +29,7 @@ then type :
 
 `dumpprivkey <your-dallar-public-address-here>` (without the <>)
 
-Copy the Key displayed on the screen and paste it into notepad, or if you're the competent kind of computer whiz that you are, just leave it on the clipboard.
+Copy the Key displayed on the screen and paste it into notepad (don't save this text file), or if you're the competent kind of computer whiz that you are, just leave it on the clipboard.
 
 **2)** Now that we have pasted your private key into notepad, we need to open the QR Code Generator we downloaded and installed earlier. 
 
@@ -43,9 +43,9 @@ Copy the Key displayed on the screen and paste it into notepad, or if you're the
 
 **6)** Now it's time for you to print your shiny new beast of a DAL Paper Note. While in your editing software, click print, and **make sure your page format is set to landscape**... then beam it up to your offline printer (that is connected to your PC via cabe, not wifi), Scotty. 
 
-After you're happy with the results, delete all remaining traces of your presence on this computer, such as the QR Code itself, and the wallet that you so cleverly designed... or if you prefer to save this template you've just made, **be aware** that this will **compromise the integrity of your security** since you will have your private keys exposed digitally in a few other locations other than this paper wallet. This is wholly not recommended unless you take extreme steps to wipe your tracks and store the digital asset **offline**.
+After you're happy with the results, delete all remaining traces of your presence on this computer, such as the QR Code itself, the wallet that you so cleverly designed,  and by closing notepad with the private key you pasted in it and hit "don't save"... or if you prefer to save this template you've just made, **be aware** that this will **compromise the integrity of your security** since you will have your private keys exposed digitally in a few other locations other than this paper wallet. This is wholly not recommended unless you take extreme steps to wipe your tracks and store the digital asset **offline**.
 
-**7)** Now we restart the computer and come back online. You're done!
+**7)** Now we restart the computer and come back online. You're done! You can now start giving a fuck.
 
 ### Bonus Level
 

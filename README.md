@@ -41,7 +41,7 @@ Copy the Key displayed on the screen and paste it into notepad (don't save this 
 
 **5)** Make your way to your favourite photo editing application such as the trusty Windows Paint, and cut / paste your newly discovered QR Code into the corresponding White spaces in any of the templates provided to you, free of fuck's given, from the git repo. 
 
-**6)** Now it's time for you to print your shiny new beast of a DAL Paper Note. While in your editing software, click print, and **make sure your page format is set to landscape**... then beam it up to your offline printer (that is connected to your PC via cabe, not wifi), Scotty. 
+**6)** Now it's time for you to print your shiny new beast of a DAL Paper Note. While in your editing software, click print, and **make sure your page format is set to landscape**... then beam it up to your offline printer, Scotty. (Your printer should only be connected to your PC via cabe, not wifi - decouple yourself from any form of network communication) 
 
 After you're happy with the results, delete all remaining traces of your presence on this computer, such as the QR Code itself, the wallet that you so cleverly designed,  and by closing notepad with the private key you pasted in it and hit "don't save"... or if you prefer to save this template you've just made, **be aware** that this will **compromise the integrity of your security** since you will have your private keys exposed digitally in a few other locations other than this paper wallet. This is wholly not recommended unless you take extreme steps to wipe your tracks and store the digital asset **offline**.
 

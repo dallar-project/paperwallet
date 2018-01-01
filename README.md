@@ -27,7 +27,7 @@ example: if your passphrase is  "dallarisawesome", you would write in the consol
 
 then type : 
 
-`dumpprivkey your-dallar-adress-here`
+`dumpprivkey <your-dallar-public-address-here>` (without the <>)
 
 Copy the Key displayed on the screen and paste it into notepad, or if you're the competent kind of computer whiz that you are, just leave it in the memory of the copy.
 

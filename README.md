@@ -11,7 +11,7 @@ To go a step further, you can always laminate these DAL notes - making sure to l
 
 Enjoy using your paper wallets, and remember - to give DAL is to give a fuck
 
-### Steps to create your DAL Paper Wallet
+## Steps to create your DAL Paper Wallet
 
 **Before you go printing anything,** we need to derive the Public Key from the DAL QT-Wallet. Make sure to do these steps herein within an offline environment, then once you are done - restart the computer to dump the memory and remove all traces of these procedures before reconnecting to the interwebs. Before disconnecting, download this QR Code Generator which can be found [here](https://www.codetwo.com/freeware/qr-code-desktop-reader/) and install it ready for step 2
 
@@ -45,6 +45,6 @@ After you're happy with the results, if you want to save this template you've ju
 
 **7)** Now we restart the computer and come back online. You're done!
 
-###### Bonus Level
+### Bonus Level
 
 Be the best at giving a fuck you can be, by laminating your folded wallet - just fold the public key tab over the top of your private key QR Code and send the DAL through the machine, plastic and all. You won't be disappointed at the results. 

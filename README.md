@@ -31,13 +31,15 @@ then type :
 
 Copy the Key displayed on the screen and paste it into notepad, or if you're the competent kind of computer whiz that you are, just leave it on the clipboard.
 
-**2)** Now that we have pasted (or simply held onto) your private key, we need to open the QR Code Generator we downloaded and installed earlier. 
+**2)** Now that we have pasted (or simply held onto) your private key into notepad, we need to open the QR Code Generator we downloaded and installed earlier. 
 
-**3)** After it opens you want to find in the top of the UI, a "Generate Mode On" function. Click that, and then copy the private address back out of notepad and paste (or just paste, you brainchild you) the Private Key in the "QR Code Text" field. This will preset to you a QR Code on the screen - how nifty, huh!
+**3)** After it opens you want to find in the top of the UI, a "Generate Mode On" function. Click that, and then copy the private address out of notepad and paste (or just paste, you brainchild you) the Private Key in the "QR Code Text" field. This will present to you a QR Code on the screen like some form of black magic.
 
-**4)** Back up the top of the UI on the toolbar, you will find a "save as" button. Click it. Do it. Save that where you won't lose it - we want to delete this file once we've finished with it (or back it up to a secure, offline location)
+**4a)** Back up the top of the UI on the toolbar, you will find a "save as" button. Click it. Do it. Save that where you won't lose it - we want to delete this file once we've finished with it (or back it up to a secure, offline location)
 
-**5)** Make your way to your favourite photo editing application such as the trusty Windows Paint, and cut / paste your newly discovered QR Code into one of the White spaces in any of the templates provided to you, free of fuck's given, in the git repo. 
+**b)** Repeat steps 3 & 4a for your public key
+
+**5)** Make your way to your favourite photo editing application such as the trusty Windows Paint, and cut / paste your newly discovered QR Code into the corresponding White spaces in any of the templates provided to you, free of fuck's given, in the git repo. 
 
 **6)** Now it's time for your to print your shiny new beast of a DAL. While in your editing software, click print, and **make sure your page format is set to landscape**, then beam it up, Scotty. 
 

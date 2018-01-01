@@ -47,4 +47,4 @@ After you're happy with the results, if you want to save this template you've ju
 
 ### Bonus Level
 
-Be the best at giving a fuck you can be, by laminating your folded wallet - just fold the public key tab over the top of your private key QR Code and send the DAL through the machine, plastic and all. You won't be disappointed at the results. 
+Be the best at giving a fuck you can be, by laminating your folded wallet - just fold the public key tab over the top of your private key QR Code and send the Dallar note through the machine, plastic and all. You won't be disappointed at the results. 

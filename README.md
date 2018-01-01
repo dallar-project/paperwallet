@@ -31,9 +31,9 @@ then type :
 
 Copy the Key displayed on the screen and paste it into notepad, or if you're the competent kind of computer whiz that you are, just leave it on the clipboard.
 
-**2)** Now that we have pasted (or simply held onto) your private key into notepad, we need to open the QR Code Generator we downloaded and installed earlier. 
+**2)** Now that we have pasted your private key into notepad, we need to open the QR Code Generator we downloaded and installed earlier. 
 
-**3)** After it opens you want to find in the top of the UI, a "Generate Mode On" function. Click that, and then copy the private address out of notepad and paste (or just paste, you brainchild you) the Private Key in the "QR Code Text" field. This will present to you a QR Code on the screen like some form of black magic.
+**3)** After it opens you want to find in the top of the UI on the toolbar, a "Generate Mode On" function. Click that, and then copy the private address out of notepad and paste it in the "QR Code Text" field. This will present to you a QR Code on the screen like some form of black magic.
 
 **4a)** Back up the top of the UI on the toolbar, you will find a "save as" button. Click it. Do it. Save that where you won't lose it - we want to delete this file once we've finished with it (or back it up to a secure, offline location)
 

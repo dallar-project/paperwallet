@@ -29,7 +29,7 @@ then type :
 
 `dumpprivkey <your-dallar-public-address-here>` (without the <>)
 
-Copy the Key displayed on the screen and paste it into notepad, or if you're the competent kind of computer whiz that you are, just leave it in the memory of the copy.
+Copy the Key displayed on the screen and paste it into notepad, or if you're the competent kind of computer whiz that you are, just leave it on the clipboard.
 
 **2)** Now that we have pasted (or simply held onto) your private key, we need to open the QR Code Generator we downloaded and installed earlier. 
 

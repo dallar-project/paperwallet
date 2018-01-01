@@ -45,7 +45,7 @@ Copy the Key displayed on the screen and paste it into notepad (don't save this 
 
 After you're happy with the results, delete all remaining traces of your presence on this computer, such as the QR Code itself, the wallet that you so cleverly designed,  and by closing notepad with the private key you pasted in it and hit "don't save"... or if you prefer to save this template you've just made, **be aware** that this will **compromise the integrity of your security** since you will have your private keys exposed digitally in a few other locations other than this paper wallet. This is wholly not recommended unless you take extreme steps to wipe your tracks and store the digital asset **offline**.
 
-**7)** Now we restart the computer and come back online. You're done! You can now start giving a fuck.
+**7)** Now we restart the computer and come back online. You're done! You can now start giving a fuck to whoever you feel is in need.
 
 ### Bonus Level
 

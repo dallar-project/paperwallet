@@ -33,7 +33,7 @@ Copy the Key displayed on the screen and paste it into notepad, or if you're the
 
 **2)** Now that we have pasted (or simply held onto) your private key, we need to open the QR Code Generator we downloaded and installed earlier. 
 
-**3)** After it opens you want to find in the top of the UI, a "Generate Mode On" function. Click that, and then copy / paste (or just paste, you brainchild, you) the Private Key in the "QR Code Text" field. This will preset to you a QR Code on the screen - how nifty, huh!
+**3)** After it opens you want to find in the top of the UI, a "Generate Mode On" function. Click that, and then copy the private address back out of notepad and paste (or just paste, you brainchild you) the Private Key in the "QR Code Text" field. This will preset to you a QR Code on the screen - how nifty, huh!
 
 **4)** Back up the top of the UI on the toolbar, you will find a "save as" button. Click it. Do it. Save that where you won't lose it - we want to delete this file once we've finished with it (or back it up to a secure, offline location)
 
@@ -41,7 +41,7 @@ Copy the Key displayed on the screen and paste it into notepad, or if you're the
 
 **6)** Now it's time for your to print your shiny new beast of a DAL. While in your editing software, click print, and **make sure your page format is set to landscape**, then beam it up, Scotty. 
 
-After you're happy with the results, if you want to save this template you've just made, **be aware** that this will **compromise the integrity of your security** since you will have your private keys exposed digitally in a few other locations other than this paper wallet. This is wholly not recommended unless you take extreme steps to wipe your tracks and store the digital asset **offline**.
+After you're happy with the results, delete all remaining traces of your presence on this computer, such as the QR Code itself, and the wallet that you so cleverly designed... or if you prefer to save this template you've just made, **be aware** that this will **compromise the integrity of your security** since you will have your private keys exposed digitally in a few other locations other than this paper wallet. This is wholly not recommended unless you take extreme steps to wipe your tracks and store the digital asset **offline**.
 
 **7)** Now we restart the computer and come back online. You're done!
 

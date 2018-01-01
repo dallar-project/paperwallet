@@ -15,7 +15,7 @@ Enjoy using your paper wallets, and remember - to give DAL is to give a fuck
 
 **Before you go thinking you're ready to print,** we need to derive the Private Key from the DAL QT-Wallet using your Public Key. Make sure to do these steps herein within an offline environment, then once you are done - restart the computer to dump the memory and remove all traces of these procedures before reconnecting to the interwebs. Before disconnecting, download this QR Code Generator which can be found [here](https://www.codetwo.com/freeware/qr-code-desktop-reader/) and install it ready for step 2
 
-**1)** This step assumes you've already set up your wallet : open the wallet on your PC and navigate to console, if you have encrypted your wallet with a password, enter that first and hit enter. If you also have a wallet passphrase you will want to use the command "walletpassphrase" like this;
+  **1)** This step assumes you've already set up your wallet : open the wallet on your PC and navigate to console, if you have encrypted your wallet with a password, enter that first and hit enter. If you also have a wallet passphrase you will want to use the command "walletpassphrase" like this;
 
 `walletpassphrase <passphrase> <timeout>`
 
@@ -31,21 +31,21 @@ then type :
 
 Copy the Key displayed on the screen and paste it into notepad (don't save this text file), or if you're the competent kind of computer whiz that you are, just leave it on the clipboard.
 
-**2)** Now that we have pasted your private key into notepad, we need to open the QR Code Generator we downloaded and installed earlier. 
+  **2)** Now that we have pasted your private key into notepad, we need to open the QR Code Generator we downloaded and installed earlier. 
 
-**3)** After it opens you want to find in the top of the UI on the toolbar, a "Generate Mode On" function. Click that, and then copy the private address out of notepad and paste it in the "QR Code Text" field. This will present to you a QR Code on the screen like some form of black magic.
+  **3)** After it opens you want to find in the top of the UI on the toolbar, a "Generate Mode On" function. Click that, and then copy the private address out of notepad and paste it in the "QR Code Text" field. This will present to you a QR Code on the screen like some form of black magic.
 
-**4a)** Back up the top of the UI on the toolbar, you will find a "save as" button. Click it. Do it. Save that where you won't lose it - we want to delete this file once we've finished with it (or back it up to a secure, offline location)
+  **4a)** Back up the top of the UI on the toolbar, you will find a "save as" button. Click it. Do it. Save that where you won't lose it - we want to delete this file once we've finished with it (or back it up to a secure, offline location)
 
-**b)** Repeat steps 3 & 4a for your public key
+  **b)** Repeat steps 3 & 4a for your public key
 
-**5)** Make your way to your favourite photo editing application such as the trusty Windows Paint, and cut / paste your newly discovered QR Code into the corresponding White spaces in any of the templates provided to you, free of fuck's given, from the git repo. 
+  **5)** Make your way to your favourite photo editing application such as the trusty Windows Paint, and cut / paste your newly discovered QR Code into the corresponding White spaces in any of the templates provided to you, free of fuck's given, from the git repo. 
 
-**6)** Now it's time for you to print your shiny new beast of a DAL Paper Note. While in your editing software, click print, and **make sure your page format is set to landscape**... then beam it up to your offline printer, Scotty. (Your printer should only be connected to your PC via cabe, not wifi - decouple yourself from any form of network communication) 
+  **6)** Now it's time for you to print your shiny new beast of a DAL Paper Note. While in your editing software, click print, and **make sure your page format is set to landscape**... then beam it up to your offline printer, Scotty. (Your printer should only be connected to your PC via cabe, not wifi - decouple yourself from any form of network communication) 
 
 After you're happy with the results, delete all remaining traces of your presence on this computer, such as the QR Code itself, the wallet that you so cleverly designed,  and by closing notepad with the private key you pasted in it and hit "don't save"... or if you prefer to save this template you've just made, **be aware** that this will **compromise the integrity of your security** since you will have your private keys exposed digitally in a few other locations other than this paper wallet. This is wholly not recommended unless you take extreme steps to wipe your tracks and store the digital asset **offline**.
 
-**7)** Now we restart the computer and come back online. You're done! You can now start giving a fuck to whoever you feel is in need.
+  **7)** Now we restart the computer and come back online. You're done! You can now start giving a fuck to whoever you feel is in need.
 
 ### Bonus Level
 

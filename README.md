@@ -39,7 +39,7 @@ Copy the Key displayed on the screen and paste it into notepad, or if you're the
 
 **b)** Repeat steps 3 & 4a for your public key
 
-**5)** Make your way to your favourite photo editing application such as the trusty Windows Paint, and cut / paste your newly discovered QR Code into the corresponding White spaces in any of the templates provided to you, free of fuck's given, in the git repo. 
+**5)** Make your way to your favourite photo editing application such as the trusty Windows Paint, and cut / paste your newly discovered QR Code into the corresponding White spaces in any of the templates provided to you, free of fuck's given, from the git repo. 
 
 **6)** Now it's time for your to print your shiny new beast of a DAL. While in your editing software, click print, and **make sure your page format is set to landscape**, then beam it up, Scotty. 
 

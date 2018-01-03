@@ -17,7 +17,7 @@ Enjoy using your paper wallets, and remember - to give DAL is to give a fuck
 
 > **Before you go thinking you're ready to print,** we need to derive the Private Key from the DAL QT-Wallet using your Public Key. Make sure to do these steps herein within an offline environment, then once you are done - restart the computer to dump the memory and remove all traces of these procedures before reconnecting to the interwebs. 
 
-#### Step 1 : Download the QR Code Generator
+### Step 1 : Download the QR Code Generator
 
 Before disconnecting, download this QR Code Generator which can be found [here](https://www.codetwo.com/freeware/qr-code-desktop-reader/) and install it ready for step 2
 

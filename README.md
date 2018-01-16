@@ -1,9 +1,9 @@
 # DAL Paper Wallet
 Resources for the zero fuck's given DAL Paper Wallet
 
+Donate DAL - DSBJqu27vaFAJFVhVPKa2AAyjvqEMgzbjv
 
-
-Within this section, you'll find a way to show your family and friends, (or the writer of this README DSBJqu27vaFAJFVhVPKa2AAyjvqEMgzbjv) that you *do* in fact give a fuck. Print these bad boys off after you've encoded your Private and Public Keys within a QR Code and have positioned said code within the white spaces of any of these DAL wallets (if you are unsure how to orientate them, I would suggest printing a test wallet off and see how they fold). After you've printed your new shiny DAL, fold along the dotted lines, taking care to cover your Private Key from prying eyes... then take it to your desired destination and make it rain on any unsuspecting victim - demonstrating how much you give a fuck. 
+Within this section, you'll find a way to show your family and friends, or the writer of this README, that you *do* in fact give a fuck. Print these bad boys off after you've encoded your Private and Public Keys within a QR Code and have positioned said code within the white spaces of any of these DAL wallets (if you are unsure how to orientate them, I would suggest printing a test wallet off and see how they fold). After you've printed your new shiny DAL, fold along the dotted lines, taking care to cover your Private Key from prying eyes... then take it to your desired destination and make it rain on any unsuspecting victim - demonstrating how much you give a fuck. 
 
 To go a step further, you can always laminate these DAL notes - making sure to laminate shut the private key, so that it can only be accessed via destroying the wallet. This ensures that;
 
@@ -66,3 +66,31 @@ Now we restart the computer and come back online. You're done! You can now start
 ### Bonus Level
 
 Be the best at giving a fuck as you can be, by laminating your folded paper wallet - just fold the public key tab over the top of your private key QR Code and send the Dallar note through the machine, plastic and all. You won't be disappointed at the results. 
+
+## Steps to Restore the Funds from Your Paper Wallet
+
+In the case where you have somehow lost your wallet.dat file (or if you have intentionally deleted it), and you have backed up your private key via this method described above, you can still recover your funds. It's basically the reverse process of dumping your keys.
+
+### Step 1
+
+Reinstall the latest version of dallar-qt from the git repo
+
+### Step 2
+
+Open the wallet on your PC and navigate to **help > debug > console**, if you have encrypted your wallet with a wallet passphrase you will want to use the command "walletpassphrase" like this;
+
+`walletpassphrase <passphrase> <timeout>`
+
+...where timeout specifies how long to keep the decryption key in memory
+
+example: if your passphrase is  "dallarisawesome", you would write in the console :
+  
+`walletpassphrase dallarisawesome 500` and hit Enter
+
+then type;
+
+`importprivkey <your-dallar-private-address-here>` (without the <>)
+
+### Step 3
+
+Close and reopen the wallet and you should now see the funds within your dallar-qt wallet

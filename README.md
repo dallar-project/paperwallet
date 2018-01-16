@@ -1,8 +1,6 @@
 # DAL Paper Wallet
 Resources for the zero fuck's given DAL Paper Wallet
 
-Donate DAL - DSBJqu27vaFAJFVhVPKa2AAyjvqEMgzbjv
-
 Within this section, you'll find a way to show your family and friends, or the writer of this README, that you *do* in fact give a fuck. Print these bad boys off after you've encoded your Private and Public Keys within a QR Code and have positioned said code within the white spaces of any of these DAL wallets (if you are unsure how to orientate them, I would suggest printing a test wallet off and see how they fold). After you've printed your new shiny DAL, fold along the dotted lines, taking care to cover your Private Key from prying eyes... then take it to your desired destination and make it rain on any unsuspecting victim - demonstrating how much you give a fuck. 
 
 To go a step further, you can always laminate these DAL notes - making sure to laminate shut the private key, so that it can only be accessed via destroying the wallet. This ensures that;
@@ -94,3 +92,5 @@ then type;
 ### Step 3
 
 Close and reopen the wallet and you should now see the funds within your dallar-qt wallet
+
+##### Donate DAL - DSBJqu27vaFAJFVhVPKa2AAyjvqEMgzbjv

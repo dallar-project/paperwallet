@@ -37,6 +37,8 @@ then type :
 
 Copy the Key displayed on the screen and paste it into notepad (don't save this text file), or if you're the competent kind of computer whiz that you are, just leave it on the clipboard.
 
+> Your Public Key is the receiving address of any particular payment request (ie a labelled address). It is recommended that you create a new address labelled `PaperWallet` and send the funds that you would like to store in cold storage on this address when still online. You can create as many as you like, (ie `PaperWallet_50DAL, PaperWallet_100DAL, etc) keeping in mind that each of these will have their own individiual key pairs (Private and Public Key pairs) and you will have to dump your private key from each of the Public Addresses you specify.
+
 ### Step 3 : Using the QR Code Generator
 
 Now that we have pasted your private key into notepad, we need to open the QR Code Generator we downloaded and installed earlier. 
